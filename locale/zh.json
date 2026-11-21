@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek 余额徽章",
+    "description": "在左侧栏底部（Settings 行旁）显示「deepseek余额：￥xx.xx」徽章，与设置 → 账号与余额同源。仅当右侧窗口打开的主会话选中 DeepSeek 模型、且账号已登录时显示；窗口重新聚焦和每 3 分钟自动刷新，侧边栏收窄时不渲染。"
+  }
+}

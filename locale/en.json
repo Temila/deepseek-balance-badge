@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek balance badge",
+    "description": "Shows a “deepseek余额：￥xx.xx” badge at the foot of the sidebar, next to Settings, using the same source as Settings → Account & balance. It appears only while the main session open in the right-hand window selects a DeepSeek model and the account is signed in; it refreshes on window focus and every 3 minutes, and stays hidden while the sidebar is collapsed."
+  }
+}
